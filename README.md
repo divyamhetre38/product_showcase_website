@@ -1,3 +1,3 @@
 ## Housing Webpage
 
-This project involves the design and development of a modern, responsive webpage created to promote and showcase a digital tool effectively.
+This project is a responsive product showcase website that demonstrates modern frontend development practices through an interactive and visually appealing user interface.
